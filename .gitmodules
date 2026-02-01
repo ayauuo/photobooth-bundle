@@ -1,0 +1,6 @@
+[submodule "photobooth-kiosk"]
+	path = photobooth-kiosk
+	url = https://github.com/CJ0423/photobooth-kiosk.git
+[submodule "PhotoBoothWin"]
+	path = PhotoBoothWin
+	url = https://github.com/CJ0423/web-vue.git
